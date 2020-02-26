@@ -1,0 +1,89 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.pink-color{
+    color: pink;
+
+}
+p{
+    color: gray;
+}
+h2{
+    font-size: 50px;
+}
+h1{
+    font-size: 40px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    padding-top: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(pink, blue);
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+}
+.top-background{
+    background-image: url(image/header-bg.png);
+    background-repeat: none;
+}
+.middle-background{
+    background-image: url(image/biography-bg.png);
+    background-repeat: no-repeat;
+    width: 100%;
+
+}
+#bibliography-text{
+    margin-top: 10%;
+}
+.latest-section{
+    width: 100%;
+   
+}
+.latest-work img{
+    width: 100%;
+}
+#latest-work{
+    width: 100%;
+    float: left;
+    margin-top: 20%;
+    overflow: hidden;
+    text-align: center;
+    background-image: url(image/biography-bg.png);
+    background-repeat: no-repeat;
+    
+}
+.latest-work{
+    width: 20%;
+    float: left;
+    margin-left: 8%;
+    padding-left: 2%;
+    padding-top: 2%;
+}
+.client{
+    text-align: center;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 10%;
+}
+.contact{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background-image: linear-gradient(pink, blue);
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: white;
+    width: 30%;
+    margin-left: 33%;
+    
+
+}
